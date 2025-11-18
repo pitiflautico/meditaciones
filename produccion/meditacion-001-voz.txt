@@ -1,0 +1,157 @@
+# 🎙️ Meditación 001 - GUION DE VOZ PARA TTS
+
+## CONFIGURACIÓN DE VOZ RECOMENDADA
+- **Género**: Femenino o masculino (preferencia: femenino para meditaciones)
+- **Edad**: Adulto maduro (30-50 años)
+- **Tono**: Cálido, suave, hipnótico
+- **Velocidad**: 0.85x (más lento que conversación normal)
+- **Idioma**: Español (España o Latino neutro)
+
+---
+
+## TEXTO PARA TTS (CON MARCAS DE PAUSA)
+
+Encuentra una posición cómoda, ya sea acostado o sentado con la espalda recta. [PAUSA: 2 segundos]
+
+Permite que tus manos descansen suavemente sobre tu abdomen, [PAUSA: 1 segundo] o a los lados de tu cuerpo. [PAUSA: 2 segundos]
+
+Cierra los ojos con delicadeza, [PAUSA: 3 segundos] como si cerraras las puertas a un mundo, [PAUSA: 1 segundo] para abrir las ventanas a otro. [PAUSA: 4 segundos]
+
+Comienza llevando tu atención a tu respiración natural. [PAUSA: 2 segundos] No la cambies todavía, [PAUSA: 2 segundos] simplemente obsérvala. [PAUSA: 3 segundos]
+
+Siente cómo el aire entra fresco por tu nariz, [PAUSA: 2 segundos] y sale tibio por tu boca. [PAUSA: 3 segundos]
+
+Con cada exhalación, [PAUSA: 1 segundo] libera cualquier tensión acumulada en tu día. [PAUSA: 4 segundos]
+
+Ahora vamos a relajar tu cuerpo de forma progresiva. [PAUSA: 2 segundos] Lleva tu conciencia a tus pies. [PAUSA: 3 segundos]
+
+Siente cómo se vuelven pesados, [PAUSA: 2 segundos] tan pesados que se hunden en la superficie que los sostiene. [PAUSA: 3 segundos]
+
+Esa sensación de peso sube por tus tobillos, [PAUSA: 2 segundos] pantorrillas, [PAUSA: 2 segundos] rodillas, [PAUSA: 2 segundos] muslos. [PAUSA: 3 segundos]
+
+Cada parte de tu cuerpo que nombro, [PAUSA: 1 segundo] se relaja completamente, [PAUSA: 2 segundos] liberando toda tensión. [PAUSA: 3 segundos]
+
+El peso sube por tu pelvis, [PAUSA: 2 segundos] abdomen, [PAUSA: 2 segundos] pecho. [PAUSA: 3 segundos] Tu respiración se vuelve más lenta y profunda. [PAUSA: 3 segundos]
+
+Relaja tus hombros, [PAUSA: 2 segundos] deja que caigan como si soltaras un peso invisible, [PAUSA: 1 segundo] que has cargado todo el día. [PAUSA: 3 segundos]
+
+Tus brazos se relajan, [PAUSA: 2 segundos] antebrazos, [PAUSA: 2 segundos] manos, [PAUSA: 2 segundos] cada dedo. [PAUSA: 4 segundos]
+
+Relaja tu cuello, [PAUSA: 2 segundos] tu mandíbula se afloja, [PAUSA: 2 segundos] tu lengua descansa en el paladar, [PAUSA: 2 segundos] tus mejillas se suavizan, [PAUSA: 2 segundos] tus párpados se vuelven tan pesados, [PAUSA: 1 segundo] que no podrías abrirlos aunque quisieras. [PAUSA: 3 segundos]
+
+Tu frente se expande, [PAUSA: 2 segundos] liberando toda preocupación. [PAUSA: 5 segundos]
+
+Ahora vamos a trabajar con la respiración cuatro, siete, ocho, [PAUSA: 2 segundos] una llave ancestral, [PAUSA: 1 segundo] que abre las puertas de la conciencia expandida. [PAUSA: 3 segundos]
+
+Inhala profundamente por la nariz, [PAUSA: 1 segundo] mientras cuentas hasta cuatro. [PAUSA: 5 segundos - permitir respiración]
+
+Retén el aire, [PAUSA: 1 segundo] contando hasta siete. [PAUSA: 8 segundos - permitir retención]
+
+Exhala completamente por la boca, [PAUSA: 1 segundo] contando hasta ocho. [PAUSA: 9 segundos - permitir exhalación]
+
+Repite este ciclo. [PAUSA: 2 segundos] Inhala cuatro, [PAUSA: 5 segundos] retén siete, [PAUSA: 8 segundos] exhala ocho. [PAUSA: 9 segundos]
+
+Con cada ciclo, [PAUSA: 2 segundos] sientes cómo tu conciencia se expande, [PAUSA: 1 segundo] más allá de los límites de tu piel. [PAUSA: 4 segundos]
+
+Inhala cuatro, [PAUSA: 5 segundos] retén siete, [PAUSA: 8 segundos] exhala ocho. [PAUSA: 9 segundos]
+
+Tu cuerpo se vuelve más ligero, [PAUSA: 2 segundos] casi transparente. [PAUSA: 5 segundos]
+
+Ahora visualiza un cordón de luz plateada, [PAUSA: 2 segundos] que emerge desde tu chakra del corazón. [PAUSA: 3 segundos]
+
+Este cordón es tu conexión eterna, [PAUSA: 1 segundo] con tu cuerpo físico, [PAUSA: 2 segundos] tu garantía de retorno seguro. [PAUSA: 3 segundos]
+
+Obsérvalo brillar con una luz suave y reconfortante. [PAUSA: 4 segundos]
+
+Este cordón es indestructible, [PAUSA: 2 segundos] elástico, [PAUSA: 1 segundo] infinito. [PAUSA: 3 segundos]
+
+Te permite explorar, [PAUSA: 1 segundo] sabiendo que siempre podrás regresar. [PAUSA: 5 segundos]
+
+Voy a contar desde diez hasta uno. [PAUSA: 2 segundos] Con cada número que desciende, [PAUSA: 1 segundo] te hundes más profundamente, [PAUSA: 1 segundo] en un estado de trance receptivo. [PAUSA: 3 segundos]
+
+Diez, [PAUSA: 3 segundos] descendiendo. [PAUSA: 3 segundos]
+
+Nueve, [PAUSA: 3 segundos] más profundo. [PAUSA: 3 segundos]
+
+Ocho, [PAUSA: 3 segundos] soltando todo control. [PAUSA: 3 segundos]
+
+Siete, [PAUSA: 3 segundos] flotando en un océano de conciencia. [PAUSA: 3 segundos]
+
+Seis, [PAUSA: 3 segundos] cada vez más ligero. [PAUSA: 3 segundos]
+
+Cinco, [PAUSA: 3 segundos] las barreras se disuelven. [PAUSA: 3 segundos]
+
+Cuatro, [PAUSA: 3 segundos] tu cuerpo es solo un recuerdo. [PAUSA: 3 segundos]
+
+Tres, [PAUSA: 3 segundos] pura conciencia. [PAUSA: 3 segundos]
+
+Dos, [PAUSA: 3 segundos] al borde del umbral. [PAUSA: 3 segundos]
+
+Uno, [PAUSA: 4 segundos] cruzas. [PAUSA: 6 segundos]
+
+Ahora activa la vibración energética. [PAUSA: 3 segundos] Siente cómo una suave corriente eléctrica, [PAUSA: 1 segundo] recorre tu cuerpo desde los pies hasta la coronilla. [PAUSA: 3 segundos]
+
+Es una vibración agradable, [PAUSA: 2 segundos] cada vez más intensa. [PAUSA: 3 segundos]
+
+Tu cuerpo físico vibra en una frecuencia diferente. [PAUSA: 3 segundos] Esta vibración es la señal, [PAUSA: 1 segundo] de que estás listo para desprenderte. [PAUSA: 5 segundos]
+
+Visualiza tu cuerpo de luz, [PAUSA: 2 segundos] tu doble astral, [PAUSA: 2 segundos] superpuesto perfectamente sobre tu cuerpo físico. [PAUSA: 4 segundos]
+
+Ahora, [PAUSA: 2 segundos] con total calma y confianza, [PAUSA: 2 segundos] permite que tu cuerpo de luz, [PAUSA: 1 segundo] comience a elevarse suavemente. [PAUSA: 4 segundos]
+
+Primero sientes cómo tu cabeza se separa, [PAUSA: 3 segundos] luego tu pecho, [PAUSA: 3 segundos] tu abdomen, [PAUSA: 3 segundos] tus piernas, [PAUSA: 3 segundos] tus pies. [PAUSA: 5 segundos]
+
+Flotas ahora a un metro sobre tu cuerpo físico. [PAUSA: 3 segundos] Puedes verlo descansando serenamente debajo de ti. [PAUSA: 3 segundos]
+
+El cordón de plata permanece conectado a tu corazón, [PAUSA: 2 segundos] pulsando con luz suave. [PAUSA: 3 segundos]
+
+Estás seguro. [PAUSA: 2 segundos] Estás protegido. [PAUSA: 2 segundos] Estás consciente. [PAUSA: 5 segundos]
+
+Permite que tu cuerpo astral se eleve más alto. [PAUSA: 3 segundos] Atraviesas el techo como si fuera niebla. [PAUSA: 3 segundos]
+
+Emerges al espacio abierto nocturno. [PAUSA: 3 segundos] Las estrellas brillan con una intensidad, [PAUSA: 1 segundo] que nunca habías presenciado. [PAUSA: 3 segundos]
+
+Puedes viajar a la velocidad del pensamiento. [PAUSA: 5 segundos]
+
+Piensa en un lugar hermoso en la naturaleza, [PAUSA: 3 segundos] y al instante estás allí. [PAUSA: 4 segundos]
+
+Siente la libertad absoluta, [PAUSA: 1 segundo] de moverte sin las limitaciones del cuerpo físico. [PAUSA: 3 segundos]
+
+Explora. [PAUSA: 3 segundos] Observa los colores más vibrantes, [PAUSA: 2 segundos] los sonidos más cristalinos. [PAUSA: 3 segundos]
+
+Cada detalle es hipernítido. [PAUSA: 5 segundos]
+
+Observa seres de luz, [PAUSA: 2 segundos] que quizás se crucen en tu camino. [PAUSA: 3 segundos]
+
+Siéntete parte de un universo, [PAUSA: 1 segundo] infinitamente más vasto de lo que creías. [PAUSA: 4 segundos]
+
+Absorbe esta experiencia. [PAUSA: 3 segundos] Grábala en tu memoria profunda. [PAUSA: 8 segundos]
+
+Ahora es momento de regresar. [PAUSA: 3 segundos] Simplemente piensa en tu cuerpo físico, [PAUSA: 2 segundos] y el cordón de plata te atrae de vuelta con suavidad. [PAUSA: 3 segundos]
+
+Viajas a través del espacio, [PAUSA: 3 segundos] ves tu hogar debajo, [PAUSA: 3 segundos] desciendes a través del techo, [PAUSA: 3 segundos] tu cuerpo de luz se alinea perfectamente, [PAUSA: 1 segundo] con tu cuerpo físico. [PAUSA: 4 segundos]
+
+Sientes cómo ambos se fusionan completamente. [PAUSA: 3 segundos] Tus pies astrales entran en tus pies físicos, [PAUSA: 2 segundos] tus piernas, [PAUSA: 2 segundos] tu torso, [PAUSA: 2 segundos] tus brazos, [PAUSA: 2 segundos] tu cabeza. [PAUSA: 4 segundos]
+
+Estás de vuelta, [PAUSA: 2 segundos] completo, [PAUSA: 2 segundos] integrado. [PAUSA: 5 segundos]
+
+Respira profundamente tres veces. [PAUSA: 2 segundos] Con cada inhalación, [PAUSA: 1 segundo] anclas tu conciencia en el aquí y ahora. [PAUSA: 2 segundos]
+
+Uno, [PAUSA: 4 segundos] dos, [PAUSA: 4 segundos] tres. [PAUSA: 4 segundos]
+
+Mueve suavemente tus dedos de los pies y de las manos. [PAUSA: 3 segundos] Gira tu cuello con delicadeza. [PAUSA: 3 segundos]
+
+Cuando estés listo, [PAUSA: 2 segundos] abre los ojos lentamente, [PAUSA: 3 segundos] trayendo contigo la sabiduría de tu viaje. [PAUSA: 5 segundos]
+
+---
+
+## DURACIÓN ESTIMADA DEL AUDIO DE VOZ
+- **Total**: Aproximadamente 12-13 minutos
+- **Formato**: MP3 o WAV
+- **Calidad**: Mínimo 192 kbps (recomendado 320 kbps)
+
+## NOTAS PARA POST-PROCESAMIENTO
+1. Aplicar ligera compresión para uniformar volumen
+2. Agregar reverb suave (10-12%) para profundidad
+3. Ecualizar para claridad en frecuencias medias (3-4 kHz)
+4. De-esser para eliminar sibilancias molestas
